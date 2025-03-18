@@ -12,7 +12,7 @@ import Nav from '../Components/Nav'
 
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename='/sandy-portfolio'>
+  <BrowserRouter basename='/myprofile'>
         <Nav />
       <Routes>
         <Route path="/" element={<Home />} />
