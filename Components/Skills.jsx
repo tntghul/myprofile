@@ -49,7 +49,7 @@ const Skills = () => {
                 <div className="progress">
                     <div className="progress-bar progress-bar-striped progress-bar-animated " style={{width:"90%"}}></div>
                 </div>
-                <span>Api</span>
+                <span>API</span>
                 <div className="progress">
                     <div className="progress-bar progress-bar-striped progress-bar-animated " style={{width:"80%"}}></div>
                 </div>
