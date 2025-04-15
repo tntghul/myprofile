@@ -27,7 +27,7 @@ const Nav = () => {
                                 <Link className="nav-link" to="/Resume"><b><i>Resume</i></b></Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/Projects"><b><i>Portfolio</i></b></Link>
+                                <Link className="nav-link" to="/Portfolio"><b><i>Portfolio</i></b></Link>
                             </li>
 
 
