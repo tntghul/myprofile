@@ -23,7 +23,7 @@ const About = () => {
                     <div className="row">
                         <div className="col-sm-6">
                             <ul className="list-unstyled">
-                                <li><i>Age: 20</i></li>
+                                <li><i>DOB: 23 Sept</i></li>
                                 <li><i>Email: sandhyak23901@gmail.com</i></li>
                                 <li><i>Phone: 9693491706</i></li>
                             </ul>
